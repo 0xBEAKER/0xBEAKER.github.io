@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/0xbeaker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://paulbeach.us
+  * I am 0xbeaker (https://keybase.io/0xbeaker) on keybase.
+  * I have a public key with fingerprint A1B6 E91D 62C0 2064 7A34  8C4C 632D 9528 482A FBF0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b22cd19dcf63dbbb80c793f9620974ad30da2b6ded18fcfd91dbba3f396eee0c0a",
+      "fingerprint": "a1b6e91d62c020647a348c4c632d9528482afbf0",
+      "host": "keybase.io",
+      "key_id": "632d9528482afbf0",
+      "kid": "0101843255ebfc1ea32950729042d1c1b99fd4b1168dc03598a392713a6487bb313b0a",
+      "uid": "0f61d27f68db5edf96fab8cf51126b19",
+      "username": "0xbeaker"
+    },
+    "service": {
+      "hostname": "paulbeach.us",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1525224284,
+  "expire_in": 157680000,
+  "prev": "339c6169a57fda50af917266606c6d75b3f0a1d5dd436074627dbf6c2887a741",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNyAnicbZJtUFRVGMd3kZcBJiNIDEmTGzLYgN7Xc+9dmiBnWOkLY+gHFab1nHvO
+ZS/g7rq7ECQ6qQxZhE6AsI4xxJQNjC8oiukaJIzECqZEODpR5lhjglEEpBCp3Uv6
+rfPlzHnO7/8//+eZc/GZBaYIs5J6IDnrlbkJ80B3Q7Fp82hM3nYKOXEZZdlOFZL5
+jRRh4vHaCjVMWSiaYWnEsgpmZKyogMMIIYlWRJlTZcDSsshDzNEYsghgghlJVVQs
+MzoFOZWTASGEVmhIpVCq5sgnbpdbc3h1W8ggQHQOsArN0oAXIcdLCq8AjsWywEq8
+xEIVqbQutDs9hkIPh6CHrNKcek0/2Obj/Q//NDfNSDzHCgJBqsIQyLGyQIusTPMs
+ZhQGybKKecQwQMIKzQmyBDmZFRkOAl4SEeIYDs3nLv7PTgUMZkVVp5FAsN67CpGk
+qALDsAAxsgF6iNsBtxKDLkUEFhI3tSOF0qslmkKMwRqdPCFcsLhIZxT7qmKPrnW5
+nV6n4izSb+xer8tiCL1lLoN8myDbEw8b0hxYH6MuKCFuj+Z0UBZGJxWvZpgyAiuw
+LK8PI4UipS7NTWyaQQgikGh9Gc+QEt2S42QFMECGgqhiKNBQlRmRBQDQQAFYFBCn
+0pDBAsY8B2iRB6yIkQoUVpJEKPIMZXS1zeGkLBzQc8J83dOj5Tugt9hNqB093XnB
+JnOEKTQkyPhfpojwqKe/bk1XlOlAmfXk7IkmuTzztfCMamt8zoPWxaqvs+fW7Lul
+w6GVxxLEiMC9q1NzWUVpKGp8y7kbdHRgT/DAyu9N6VV3zotHwt/jK85/vXv9kWWX
+bKFZuxcndC4csa+I6Xj+kKmGgMhp5Pum1je799pIWLn/6o/DNRmNQW/kn07qGVNC
+LQ9uraH9nrTmiGRYvZJEbvIVmhZdmZ2YzBgzJX4SO1258/FHa99cuVk2Xxj6bsdc
+yE+eQLbp2z3X4wasng0tGyfP9QctP2hKqDzjJXFkvIz9oftze3JAWi38GTY3M/rb
+o+GlIX/FjcTmFm6kXi54OA6vmXM6N/l3VxTdLwg0/hMacihQ0uvfF5m0bEt2/O9d
+2QfuvjTs/9ksbbxbd/LgLr/mrN+WnRI2NO57dWd4VfKp4LSvxkb7rnza9s4XjU29
+OTmJBfaapc81t2eu6W3x9fHNkYm1nc8u6LqRnvl4qFlcvmCqPe92rCPoFxvcN/Vr
+Q+uu3OoXrUfH5/KWWK9nfhjbkfTHjaY298CRkb7IGRitfll7OHX/7YVgf9he85C7
+1t7xwXRb0rrPesr7o++fj9/quzTzyLpwAqfeuztV/3dDXN3Rttw7p52DFzrKUhJX
+tE6f2Hqxqmnfsct1D1en3Ty1fnDJmd70kvfXakKM7Wb7utAXNnzcP3m45ey51wcr
+Go935iBh7VuLjl+urz6b8S/xRMGh
+=zM9C
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/0xbeaker
+
+==================================================================
